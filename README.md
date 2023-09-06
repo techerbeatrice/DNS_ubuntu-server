@@ -12,7 +12,7 @@ ___
 **Installation de Bind9**  
 **Création du fichier de la zone**  
 **Création du fichier de la zone inversée**  
-**Configuration de la zone et de la zone inversée dans le fichier named.conf.local de Bind**   
+**Configuration du fichier named.conf.local de Bind**   
 **Test**  
 ___
 
@@ -37,7 +37,7 @@ ____________
 
 _______________
 
-**Configuration de la zone et de la zone inversée dans le fichier named.conf.local de Bind**   
+**Configuration du fichier named.conf.local de Bind**   
 
 ![image](https://github.com/techerbeatrice/DNS_ubuntu-server/assets/138071140/d4077e8c-0e71-45cf-bd6a-fea927636634)
 
