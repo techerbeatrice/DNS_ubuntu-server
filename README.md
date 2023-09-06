@@ -39,7 +39,7 @@ _______________
 
 **Configuration de la zone et de la zone inversée dans le fichier named.conf.local de Bind**   
 
-![image](https://github.com/techerbeatrice/DNS_ubuntu-server/assets/138071140/04237982-8c8f-45cc-9a84-01bf2101d7aa)
+![image](https://github.com/techerbeatrice/DNS_ubuntu-server/assets/138071140/d4077e8c-0e71-45cf-bd6a-fea927636634)
 
 ____
 
