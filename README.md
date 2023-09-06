@@ -27,9 +27,13 @@ Après avoir fait un **apt-get update**, exécuter la commande suivante pour ins
 
 ____
 **Création du fichier de la zone**
+![image](https://github.com/techerbeatrice/DNS_ubuntu-server/assets/138071140/ebe3394c-e965-4cf2-93cc-458359650f13)
 
 ____________
-**Création du fichier de la zone inversée**
+**Création du fichier de la zone inversée**   
+
+![image](https://github.com/techerbeatrice/DNS_ubuntu-server/assets/138071140/eb8d4a1f-2bb0-42f2-810e-379870d53713)
+
 _______________
 
 **Configuration de la zone et de la zone inversée dans le fichier named.conf.local de Bind**   
