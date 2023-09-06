@@ -33,7 +33,7 @@ ____
 ____________
 **Création du fichier de la zone inversée**   
 
-![image](https://github.com/techerbeatrice/DNS_ubuntu-server/assets/138071140/eb8d4a1f-2bb0-42f2-810e-379870d53713)
+![image](https://github.com/techerbeatrice/DNS_ubuntu-server/assets/138071140/ca710310-0364-4640-b702-258b1a49a322)
 
 _______________
 
