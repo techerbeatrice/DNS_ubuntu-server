@@ -25,6 +25,18 @@ Après avoir fait un **apt-get update**, exécuter la commande suivante pour ins
 
 ![image](https://github.com/techerbeatrice/DNS_ubuntu-server/assets/138071140/fe864308-b746-4314-ae3f-499c299d6c4d)
 
+____
+**Création du fichier de la zone**
 
+____________
+**Création du fichier de la zone inversée**
+
+
+____
+
+
+**Démarrage de Bind9**   
+
+![image](https://github.com/techerbeatrice/DNS_ubuntu-server/assets/138071140/258a2fd6-4b52-4b56-92f1-4532ed447e41)
 
 
