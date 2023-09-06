@@ -30,8 +30,9 @@ ____
 
 ____________
 **Création du fichier de la zone inversée**
+_______________
 
-
+**Configuration de la zone et de la zone inversée dans le fichier named.conf.local de Bind**   
 ____
 
 
