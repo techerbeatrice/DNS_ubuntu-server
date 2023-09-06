@@ -48,4 +48,7 @@ ____
 
 ![image](https://github.com/techerbeatrice/DNS_ubuntu-server/assets/138071140/258a2fd6-4b52-4b56-92f1-4532ed447e41)
 
+**Test**   
+
+![image](https://github.com/techerbeatrice/DNS_ubuntu-server/assets/138071140/216f5399-ed4b-4dcb-8237-f1f106098abd)
 
