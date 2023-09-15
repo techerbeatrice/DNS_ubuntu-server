@@ -28,12 +28,16 @@ Après avoir fait un **apt-get update**, exécuter la commande suivante pour ins
 ____
 **Création du fichier de la zone**   
 
-![image](https://github.com/techerbeatrice/DNS_ubuntu-server/assets/138071140/40e78d59-083f-4110-86c4-9f37dea19d61)
+![image](https://github.com/techerbeatrice/DNS_ubuntu-server/assets/138071140/c43bb3ce-e870-46c4-8778-a40c7d297e7b)
+
+
+
 
 ____________
 **Création du fichier de la zone inversée**   
 
-![image](https://github.com/techerbeatrice/DNS_ubuntu-server/assets/138071140/ca710310-0364-4640-b702-258b1a49a322)
+![image](https://github.com/techerbeatrice/DNS_ubuntu-server/assets/138071140/f4625ece-7eae-4628-8f4a-3ce003283aa4)
+
 
 _______________
 
