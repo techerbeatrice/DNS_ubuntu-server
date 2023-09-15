@@ -50,7 +50,7 @@ ____
 
 **Démarrage de Bind9**   
 
-![image](https://github.com/techerbeatrice/DNS_ubuntu-server/assets/138071140/8ea449f9-b9b3-4d6c-b55b-070c1cf30859)
+![image](https://github.com/techerbeatrice/DNS_ubuntu-server/assets/138071140/820e344d-b2c7-43a0-9ecd-5892380d555a)
 
 **Test**   
 
