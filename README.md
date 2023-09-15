@@ -43,14 +43,14 @@ _______________
 
 **Configuration du fichier named.conf.local de Bind**   
 
-![image](https://github.com/techerbeatrice/DNS_ubuntu-server/assets/138071140/d4077e8c-0e71-45cf-bd6a-fea927636634)
+![image](https://github.com/techerbeatrice/DNS_ubuntu-server/assets/138071140/b461dbf1-8e6f-4442-8da1-4ea1380bd35c)
 
 ____
 
 
 **Démarrage de Bind9**   
 
-![image](https://github.com/techerbeatrice/DNS_ubuntu-server/assets/138071140/258a2fd6-4b52-4b56-92f1-4532ed447e41)
+![image](https://github.com/techerbeatrice/DNS_ubuntu-server/assets/138071140/8ea449f9-b9b3-4d6c-b55b-070c1cf30859)
 
 **Test**   
 
